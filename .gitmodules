@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:lucasclaude3/songbook-backend.git
+[submodule "vue-app"]
+	path = vue-app
+	url = git@github.com:lucasclaude3/songbook-vueapp.git
